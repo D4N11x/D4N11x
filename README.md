@@ -1,5 +1,7 @@
 ## Perfil de Daniel Thielmann
 
+I'm currently studying Engenharia Computacional at Universidade Federal de Juiz de Fora, and here you can find all my work.
+
  <div>
    <a href="https://github.com/D4N11x">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D4N11x&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -23,21 +25,3 @@
   ![Snake animation](https://github.com/D4N11x/D4N11x/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-
-### Hi there 👋
-
-<!--
-**D4N11x/D4N11x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
